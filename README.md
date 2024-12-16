@@ -8,6 +8,8 @@
 - 📫 How to reach me: [jamsandekar.a@northeastern.edu](mailto:jamsandekar.a@northeastern.edu).
 - 🏆 Fun fact: **Winner of Shell Eco-marathon 2021** with Team AVERERA.
 
+---
+
 Welcome to my page!  
 
 ### 🏢 Experience:
@@ -33,6 +35,13 @@ Welcome to my page!
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=flat&logo=ros&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=flat&logo=mathworks&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat&logo=raspberry%20pi&logoColor=white)
+![CANalyzer](https://img.shields.io/badge/CANalyzer-009688?style=flat&logo=vector&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+
+

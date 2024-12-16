@@ -6,7 +6,7 @@
 - 📍 Based in **Boston, MA**.
 - 💬 Ask me about **Robotics Sensing, Motion Planning, and Game Theory**.
 - 📫 How to reach me: [jamsandekar.a@northeastern.edu](mailto:jamsandekar.a@northeastern.edu).
-- 🏆 Fun fact: **Winner of Shell Eco-marathon 2021** with Team AVERERA.
+- 🏆 Fun fact: **Winner of Shell Eco-marathon 2021** with [Team AVERERA](https://github.com/Averera).
 
 ---
 
